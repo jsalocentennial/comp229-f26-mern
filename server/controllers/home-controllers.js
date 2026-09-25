@@ -1,5 +1,5 @@
 function homeController(req, res) {
-    res.send("Hello World");
+    res.send("Home Page");
 }
 
 export default homeController;
